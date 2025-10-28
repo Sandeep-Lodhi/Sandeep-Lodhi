@@ -17,7 +17,7 @@
 
 # 👋 About Me  
 
-Hi there! I'm **Sandeep Lodhi**, a passionate and detail-oriented **MERN Stack Developer** from **Delhi, India**, with over **10 years of total experience** and **2 years of hands-on expertise** in modern web technologies. I specialize in building **scalable, secure, and high-performance web applications** using **MongoDB, Express.js, React.js, and Node.js**.  
+Hi there! I'm **Sandeep Lodhi**, a passionate and detail-oriented **MERN Stack Developer** from **Delhi, India**, with **3 years of hands-on expertise** in modern web technologies. I specialize in building **scalable, secure, and high-performance web applications** using **MongoDB, Express.js, React.js, and Node.js**.  
 
 I love turning ideas into interactive digital experiences — whether it’s developing elegant UI components, optimizing backend APIs, or architecting full-stack solutions with clean, maintainable code.  
 
