@@ -1,60 +1,64 @@
 <!-- PROFILE README START -->
 
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/Sandeep-Lodhi" target="_blank">Sandeep Lodhi</a></h1>
-
 <h3 align="center">💻 Full Stack MERN & Java Developer | 🚀 Building Scalable & Modern Web Applications</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sandeep-lodhi-30293620b"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:officialsandeeplodhi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-grey?style=flat-square&logo=gmail"></a>
-  <a href="https://codepen.io/sandeep-lodhi"><img src="https://img.shields.io/badge/-CodePen-black?style=flat-square&logo=codepen"></a>
-  <a href="https://x.com/Sandeep98546666"><img src="https://img.shields.io/badge/-X-black?style=flat-square&logo=x"></a>
-  <a href="https://www.instagram.com/i_sandeeprajpoot/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-  <a href="https://github.com/Sandeep-Lodhi"><img src="https://img.shields.io/github/followers/Sandeep-Lodhi?label=Followers&style=social"></a>
+  <a href="https://linkedin.com/in/sandeep-lodhi-30293620b"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:officialsandeeplodhi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-grey?style=flat-square&logo=gmail" /></a>
+  <a href="https://codepen.io/sandeep-lodhi"><img src="https://img.shields.io/badge/-CodePen-black?style=flat-square&logo=codepen" /></a>
+  <a href="https://x.com/Sandeep98546666"><img src="https://img.shields.io/badge/-X-black?style=flat-square&logo=x" /></a>
+  <a href="https://www.instagram.com/i_sandeeprajpoot/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/Sandeep-Lodhi"><img src="https://img.shields.io/github/followers/Sandeep-Lodhi?label=Followers&style=social" /></a>
 </p>
 
 ---
 
-# 👋 About Me  
+## 👨‍💻 About Me  
 
-Hi there! I'm **Sandeep Lodhi**, a passionate and detail-oriented **MERN Stack Developer** from **Delhi, India**, with **3 years of hands-on expertise** in modern web technologies. I specialize in building **scalable, secure, and high-performance web applications** using **MongoDB, Express.js, React.js, and Node.js**.  
+Hi there! I'm **Sandeep Lodhi**, a passionate and detail-oriented **Full Stack MERN Developer** from **Delhi, India**, with over **3 years of professional experience** in building modern, scalable, and efficient web applications.  
 
-I love turning ideas into interactive digital experiences — whether it’s developing elegant UI components, optimizing backend APIs, or architecting full-stack solutions with clean, maintainable code.  
+I specialize in developing **secure and high-performance full-stack solutions** using **MongoDB, Express.js, React.js, and Node.js**, and I’m driven by crafting clean, maintainable code and creating impactful digital products.  
 
 ---
 
 ## 🚀 What I Do  
+
 - 💻 **Frontend Development:** React.js, Redux Toolkit, Next.js, Tailwind CSS, Material UI, Bootstrap  
-- ⚙️ **Backend Development:** Node.js, Express.js, RESTful APIs, Authentication (JWT, Google OAuth)  
-- 🗄️ **Databases:** MongoDB, MySQL, PostgreSQL, Sequelize ORM, Prisma  
+- ⚙️ **Backend Development:** Node.js, Express.js, REST APIs, Authentication (JWT, Google OAuth)  
+- 🗄️ **Databases:** MongoDB, MySQL, PostgreSQL, Sequelize, Prisma  
 - ☁️ **DevOps & Deployment:** AWS, Docker, Render, Vercel, Firebase, PM2  
-- 🧪 **Testing:** Jest, Supertest, Mocha  
-- 🧰 **Version Control:** Git, GitHub, GitLab  
+- 🧪 **Testing:** Jest, Mocha, Supertest  
+- 🧰 **Version Control:** Git, GitHub, GitLab, Bitbucket  
 
 ---
 
-## 🧠 I’m Currently Working On  
-- Role-based **Product CRUD Application** (Node.js + MySQL)  
-- **React.js TypeScript CRUD App** with Tailwind CSS styling  
-- **AWS Serverless Product APIs** using the Serverless Framework  
+## 🧠 Currently Working On  
+
+- 🔐 Role-Based **Product CRUD Application** using Node.js + MySQL  
+- ⚛️ **React.js TypeScript CRUD App** with Tailwind CSS styling  
+- ☁️ **AWS Serverless Product APIs** with Serverless Framework  
 
 ---
 
-## 🌱 I’m Currently Learning  
-- **Advanced TypeScript patterns**  
-- **Serverless & Microservices Architecture**  
-- **Next.js 15 and Edge Functions**  
+## 🌱 Currently Learning  
+
+- 🧩 Advanced **TypeScript Patterns**  
+- 🏗️ **Serverless & Microservices Architecture**  
+- ⚡ **Next.js 15 & Edge Functions**  
 
 ---
 
-## 💡 My Goal  
-To build **robust full-stack solutions** that blend performance with design — while continuously improving my craft through **learning, collaboration, and innovation**.
+## 🎯 My Goal  
+
+To build **robust, scalable, and visually engaging full-stack applications** that merge innovation with usability — while continuously enhancing my skills through **collaboration, exploration, and creativity**.  
 
 ---
 
-## ⚡ Fun Fact  
-I believe **clean code and coffee** are the best combo for great development days ☕💻  
- 
+## ☕ Fun Fact  
+
+> I believe **clean code + coffee** ☕ = the perfect recipe for great development days 💻  
+
 ---
 
 ## 🛠️ Tech Stack  
@@ -64,6 +68,11 @@ I believe **clean code and coffee** are the best combo for great development day
 </p>
 
 ---
+
+<h4 align="center">✨ “Code. Create. Collaborate. Repeat.” ✨</h4>
+
+---
+
 
 ## ⚙️ Technologies Overview  
 
