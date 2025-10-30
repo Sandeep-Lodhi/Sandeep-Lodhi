@@ -113,29 +113,90 @@ With 3+ years of professional experience, I love building scalable, secure, and 
 
 ---
 
+<details>
+  <summary>⚙️ Technologies Overview</summary>
+  <br/>
+| **Category** | **Technologies & Tools** |
+|---------------|--------------------------|
+| **Frontend** | HTML5, CSS3, JavaScript (ES6), TypeScript, React.js, Redux Toolkit, GSAP, JQuery, Tailwind CSS, Bootstrap, Material UI |
+| **Backend & APIs** | Node.js, Express.js, Next.js, Medusa.js, RESTful APIs, JSON, AJAX, TRPC, Swagger (OpenAPI), Redoc, AWS Lambda |
+| **Databases** | MongoDB, PostgreSQL, MySQL, MS SQL Server, SQLite3, Firebase, DynamoDB, Redis, RethinkDB, ClickHouse, AWS RDS |
+| **ORM & Data Modeling** | Mongoose, Sequelize, Prisma, MikroORM, TypeORM |
+| **DevOps & CI/CD** | Git, GitHub, GitLab CI, Bitbucket, GitHub Actions, Docker, Kubernetes, Kafka, ESLint, Prettier, Linter, Dependabot |
+| **Testing & QA** | Jest, Mocha, Chai, Supertest, Cypress, Codecov, Sentry, JMeter |
+| **Cloud & Deployment** | Firebase, AWS (S3, EC2, RDS), Cloudflare, DigitalOcean, Render, Vercel, Heroku, NGINX, PM2 |
+| **Package Managers** | npm, pnpm, yarn, bun, nvm |
+| **Project Management** | Jira, Trello, ClickUp, GitHub Projects |
+| **Developer Tools** | VS Code, Cursor, Windsurf, V0, Trae, Postman, Chromatic, Google Workspace |
+| **AI & Automation Tools** | ChatGPT, GitHub Copilot, Blackbox, DeepShek, Trycer, Lovable, Bolt.new, Intercom.ai |
+| **Communication & Collaboration** | Slack, Microsoft Teams, Skype, WhatsApp, Google Meet, Zoom |
+</details>
+
+---
+
 ## 🚀 Featured Projects  
 
 | 🔗 Project | 🧩 Description | 🛠 Tech Stack | 🌐 Demo |
 |-------------|----------------|---------------|----------|
 | 📺 **TorahAnytime** | Religious media & donations platform | Node.js, MySQL, Redis, AWS, Docker | [Visit](https://torahanytime.com/) |
 | 🇪🇸 **Nosotrus** | LMS platform for Spanish education | Node.js, Serverless, PostgreSQL, AWS Lambda | [Visit](https://develop.nosotrosonline.com/) |
+| 👪 **FamilyOne** | Family networking & discounts platform | Node.js, AWS, Redis, Cloudflare, Intercom | [Visit](https://family.one/) |
+| 🚚 **BikeShopShippers** | Logistics management for bulk shipping | Medusa.js, Node.js, Next.js, PostgreSQL, Stripe API | [Visit](https://bikeshopshippers.com/us) |
 | 🎥 **Zegocloud App** | Real-time video conferencing app | Node.js, ZegoCloud, React, Tailwind | [Demo](https://zegocloud-app.vercel.app/) |
 | 🔍 **Airiasearch** | AI-powered search engine | React, Node.js, Tailwind | [Demo](https://airiasearch.vercel.app/) |
 | 🏠 **Real Estate Platform** | Property renting & selling web app | MERN Stack, Firebase | [Live](https://real-estate-d1ad.onrender.com/) |
 | 📽️ **Netflix Clone** | Movie streaming platform | React.js, Firebase, TMDB API | [Demo](https://netflix-clone-git-main-sandeep-lodhis-projects.vercel.app/) |
+| 🛒 **Amazon Clone** | Full E-commerce store | React.js, Node.js, Firebase | [Demo](https://amazone-clone-six-omega.vercel.app/) |
+| 🎥 **Zegocloud App** | Real-time video conferencing app | Node.js, Express.js, ZegoCloud, React, Tailwind | [Demo](https://zegocloud-app.vercel.app/) |
 
 > 🌟 Explore more on my [GitHub Repositories →](https://github.com/Sandeep-Lodhi?tab=repositories)
+
+---
+
+## 🧮 Competitive Programming Profiles  
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/officialsandeep1"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+  <a href="https://www.hackerearth.com/@sandeep3581/"><img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white"></a>
+  <a href="https://www.geeksforgeeks.org/user/officialsandeeplodhi/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
+  <a href="https://leetcode.com/u/OfficialSandeepLodhi_7/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://www.codechef.com/users/sandeep_134"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
+  <a href="https://codeforces.com/profile/Sandeep_Lodhi"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+</p>
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sandeep-Lodhi&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-Lodhi&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-Lodhi&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🏆 Achievements & Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sandeep-Lodhi&theme=onedark&margin-w=10&no-bg=true" />
+</p>
 
 ---
 
 ## 🙋‍♂️ Let's Connect  
 
 <p align="center">
-  <a href="https://linkedin.com/in/sandeep-lodhi-30293620b" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="mailto:officialsandeeplodhi@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-  <a href="https://x.com/Sandeep98546666" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-  <a href="https://www.instagram.com/i_sandeeprajpoot/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+  <a href="https://sandeeplodhi-portfolio.netlify.app/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
   <a href="https://github.com/Sandeep-Lodhi" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/sandeep-lodhi-30293620b" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/sandeep.lodhi.98735/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+  <!-- <a href="https://x.com/Sandeep98546666" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a> -->
+  <a href="https://www.instagram.com/i_sandeeprajpoot/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+  <a href="mailto:officialsandeeplodhi@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
 ---
