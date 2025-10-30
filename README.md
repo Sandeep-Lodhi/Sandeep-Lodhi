@@ -115,21 +115,24 @@ With 3+ years of professional experience, I love building scalable, secure, and 
 
 <details>
   <summary>⚙️ Technologies Overview</summary>
+
   <br/>
-| **Category** | **Technologies & Tools** |
-|---------------|--------------------------|
-| **Frontend** | HTML5, CSS3, JavaScript (ES6), TypeScript, React.js, Redux Toolkit, GSAP, JQuery, Tailwind CSS, Bootstrap, Material UI |
-| **Backend & APIs** | Node.js, Express.js, Next.js, Medusa.js, RESTful APIs, JSON, AJAX, TRPC, Swagger (OpenAPI), Redoc, AWS Lambda |
-| **Databases** | MongoDB, PostgreSQL, MySQL, MS SQL Server, SQLite3, Firebase, DynamoDB, Redis, RethinkDB, ClickHouse, AWS RDS |
-| **ORM & Data Modeling** | Mongoose, Sequelize, Prisma, MikroORM, TypeORM |
-| **DevOps & CI/CD** | Git, GitHub, GitLab CI, Bitbucket, GitHub Actions, Docker, Kubernetes, Kafka, ESLint, Prettier, Linter, Dependabot |
-| **Testing & QA** | Jest, Mocha, Chai, Supertest, Cypress, Codecov, Sentry, JMeter |
-| **Cloud & Deployment** | Firebase, AWS (S3, EC2, RDS), Cloudflare, DigitalOcean, Render, Vercel, Heroku, NGINX, PM2 |
-| **Package Managers** | npm, pnpm, yarn, bun, nvm |
-| **Project Management** | Jira, Trello, ClickUp, GitHub Projects |
-| **Developer Tools** | VS Code, Cursor, Windsurf, V0, Trae, Postman, Chromatic, Google Workspace |
-| **AI & Automation Tools** | ChatGPT, GitHub Copilot, Blackbox, DeepShek, Trycer, Lovable, Bolt.new, Intercom.ai |
-| **Communication & Collaboration** | Slack, Microsoft Teams, Skype, WhatsApp, Google Meet, Zoom |
+
+  | **Category** | **Technologies & Tools** |
+  |---------------|--------------------------|
+  | **Frontend** | HTML5, CSS3, JavaScript (ES6), TypeScript, React.js, Redux Toolkit, GSAP, jQuery, Tailwind CSS, Bootstrap, Material UI |
+  | **Backend & APIs** | Node.js, Express.js, Next.js, Medusa.js, RESTful APIs, JSON, AJAX, TRPC, Swagger (OpenAPI), Redoc, AWS Lambda |
+  | **Databases** | MongoDB, PostgreSQL, MySQL, MS SQL Server, SQLite3, Firebase, DynamoDB, Redis, RethinkDB, ClickHouse, AWS RDS |
+  | **ORM & Data Modeling** | Mongoose, Sequelize, Prisma, MikroORM, TypeORM |
+  | **DevOps & CI/CD** | Git, GitHub, GitLab CI, Bitbucket, GitHub Actions, Docker, Kubernetes, Kafka, ESLint, Prettier, Linter, Dependabot |
+  | **Testing & QA** | Jest, Mocha, Chai, Supertest, Cypress, Codecov, Sentry, JMeter |
+  | **Cloud & Deployment** | Firebase, AWS (S3, EC2, RDS), Cloudflare, DigitalOcean, Render, Vercel, Heroku, NGINX, PM2 |
+  | **Package Managers** | npm, pnpm, yarn, bun, nvm |
+  | **Project Management** | Jira, Trello, ClickUp, GitHub Projects |
+  | **Developer Tools** | VS Code, Cursor, Windsurf, V0, Trae, Postman, Chromatic, Google Workspace |
+  | **AI & Automation Tools** | ChatGPT, GitHub Copilot, Blackbox, DeepShek, Trycer, Lovable, Bolt.new, Intercom.ai |
+  | **Communication & Collaboration** | Slack, Microsoft Teams, Skype, WhatsApp, Google Meet, Zoom |
+
 </details>
 
 ---
@@ -162,19 +165,6 @@ With 3+ years of professional experience, I love building scalable, secure, and 
   <a href="https://leetcode.com/u/OfficialSandeepLodhi_7/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
   <a href="https://www.codechef.com/users/sandeep_134"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
   <a href="https://codeforces.com/profile/Sandeep_Lodhi"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
-</p>
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sandeep-Lodhi&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-Lodhi&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-Lodhi&layout=compact&theme=radical" />
 </p>
 
 ---
