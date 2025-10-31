@@ -19,15 +19,6 @@ With 3+ years of professional experience, I love building scalable, secure, and 
 
 ---
 
-<p align="center">
-  <a href="https://linkedin.com/in/sandeep-lodhi-30293620b"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:officialsandeeplodhi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-grey?style=flat-square&logo=gmail" /></a>
-  <a href="https://codepen.io/sandeep-lodhi"><img src="https://img.shields.io/badge/-CodePen-black?style=flat-square&logo=codepen" /></a>
-  <a href="https://x.com/Sandeep98546666"><img src="https://img.shields.io/badge/-X-black?style=flat-square&logo=x" /></a>
-  <a href="https://www.instagram.com/i_sandeeprajpoot/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/Sandeep-Lodhi"><img src="https://img.shields.io/github/followers/Sandeep-Lodhi?label=Followers&style=social" /></a>
-</p>
-
 ## 🔥 Streak Stats  
 
 <p align="center">
@@ -35,6 +26,15 @@ With 3+ years of professional experience, I love building scalable, secure, and 
     <img title="🔥 Get streak stats" alt="Sandeep's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Sandeep-Lodhi&theme=monokai-metallian&hide_border=true"/>
   </a>
   <p align="center">“Code with logic, build with passion.” 🔥</p>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sandeep-lodhi-30293620b"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:officialsandeeplodhi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-grey?style=flat-square&logo=gmail" /></a>
+  <a href="https://codepen.io/sandeep-lodhi"><img src="https://img.shields.io/badge/-CodePen-black?style=flat-square&logo=codepen" /></a>
+  <a href="https://x.com/Sandeep98546666"><img src="https://img.shields.io/badge/-X-black?style=flat-square&logo=x" /></a>
+  <a href="https://www.instagram.com/i_sandeeprajpoot/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/Sandeep-Lodhi"><img src="https://img.shields.io/github/followers/Sandeep-Lodhi?label=Followers&style=social" /></a>
 </p>
 
 ---
