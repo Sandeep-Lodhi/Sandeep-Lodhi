@@ -160,6 +160,8 @@ With 3+ years of professional experience, I love building scalable, secure, and 
 | 📽️ **Netflix Clone** | Movie streaming platform | React.js, Firebase, TMDB API | [Demo](https://netflix-clone-git-main-sandeep-lodhis-projects.vercel.app/) |
 | 🛒 **Amazon Clone** | Full E-commerce store | React.js, Node.js, Firebase | [Demo](https://amazone-clone-six-omega.vercel.app/) |
 | 🎥 **Zegocloud App** | Real-time video conferencing app | Node.js, Express.js, ZegoCloud, React, Tailwind | [Demo](https://zegocloud-app.vercel.app/) |
+| 💬 **WhatsApp Automation Platform** | Enterprise WhatsApp automation & campaign management system | MERN Stack, Exotel API, Cloudflare, REST APIs | [Live](http://whatsapp.atiyaherbs.com) |
+| 🏥 **Hospital CRM & Video Consultation** | Internal hospital CRM with real-time appointment & WebRTC video system | MERN Stack, MS SQL Server, IIS, WebRTC | [Internal Deployment](http://192.168.10.223:8888/app/) |
 
 > 🌟 Explore more on my [GitHub Repositories →](https://github.com/Sandeep-Lodhi?tab=repositories)
 
